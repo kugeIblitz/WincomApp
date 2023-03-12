@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716594384495",
+    "project_id": "wincom-ee7b2",
+    "storage_bucket": "wincom-ee7b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716594384495:android:dcc2aec7633e28abfec79a",
+        "android_client_info": {
+          "package_name": "com.example.wincomfunctions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716594384495-ru962maof0gekh9sqg6uoltjc0ac3rkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrAmHuXmfdnDsaGM79AhxqrXrWBzvpnQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716594384495-ru962maof0gekh9sqg6uoltjc0ac3rkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
